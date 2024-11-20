@@ -2,7 +2,7 @@
 
 # Oracle Installment Management System
 
-This repository showcases an **Oracle PL/SQL project** designed to manage client contracts and generate installments dynamically. The system automates the calculation and scheduling of installments based on contract terms.
+This repository showcases an **Oracle PL/SQL project** designed to manage client contracts and generate installments dynamically. This project was developed as part of the Oracle course in the Data Visualization track at the Information Technology Institute (ITI). The system automates the calculation and scheduling of installments based on contract terms.
 
 ---
 
