@@ -18,7 +18,7 @@ This repository showcases an **Oracle PL/SQL project** designed to manage client
 ## Repository Structure
 
 - **`scripts/`**: Contains SQL scripts for schema creation, data insertion, and dynamic installment generation.
-- **`docs/`**: Documentation for project overview and usage instructions.
+- **`ReadMe.md`**: Documentation for project overview and usage instructions.
 - **`examples/`**: Test cases and sample outputs.
 
 ---
